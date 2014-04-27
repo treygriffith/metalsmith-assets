@@ -1,0 +1,28 @@
+{
+  "name": "metalsmith-assets",
+  "version": "0.0.1",
+  "description": "Include static assets in your Metalsmith build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treygriffith/metalsmith-assets"
+  },
+  "keywords": [
+    "metalsmith",
+    "static",
+    "assets"
+  ],
+  "author": {
+    "name": "Trey Griffith",
+    "email": "trey@tgriff3.com",
+    "website": "http://tgriff3.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treygriffith/metalsmith-assets/issues"
+  },
+  "homepage": "https://github.com/treygriffith/metalsmith-assets"
+}
