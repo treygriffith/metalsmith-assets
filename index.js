@@ -32,7 +32,7 @@ function assets(options) {
   options = merge({}, defaults, options);
 
   return function (files, metalsmith, done) {
-    var src = metalsmith.join(options.source);
+    var src = metalsmith.path(options.source);
     var dest = options.destination;
 
     debug('pulling files from '+src);
