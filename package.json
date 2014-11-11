@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-assets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Include static assets in your Metalsmith build",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "mocha": "1.x",
-    "metalsmith": "0.x",
+    "metalsmith": "1.x",
     "assert-dir-equal": "0.x"
   },
   "repository": {
