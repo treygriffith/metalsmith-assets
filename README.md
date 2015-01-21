@@ -1,4 +1,3 @@
-
 # metalsmith-assets
 
   Include static assets in your Metalsmith build
@@ -9,7 +8,7 @@
 
 ## CLI Usage
 
-  Install via npm and then add the `metalsmith-assets` key to your `metalsmith.json` plugins with a source and destination directory, like so:
+Install via npm and then add the `metalsmith-assets` key to your `metalsmith.json` plugins with a source and destination directory, like so:
 
 ```json
 {
@@ -21,6 +20,9 @@
   }
 }
 ```
+
+* `source` defaults to `'./public'`
+* `destination` defaults to `'.'`
 
 ## Javascript Usage
 
