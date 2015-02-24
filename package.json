@@ -36,5 +36,9 @@
   "bugs": {
     "url": "https://github.com/treygriffith/metalsmith-assets/issues"
   },
-  "homepage": "https://github.com/treygriffith/metalsmith-assets"
+  "homepage": "https://github.com/treygriffith/metalsmith-assets",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
