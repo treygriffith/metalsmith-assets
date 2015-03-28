@@ -50,3 +50,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Testing built directories
+test/fixture/build
